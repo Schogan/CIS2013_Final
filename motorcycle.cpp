@@ -4,16 +4,16 @@
 
 using namespace std;
 
-string color;
-string make;
-string model;
-int year;
+string color="Red";
+string make="Harley";
+string model="Soft tail";
+int year=2018;
 
 motorcycle::motorcycle(){
-	setColor();
+	/*setColor();
 	setMake();
 	setModel();
-	setYear();
+	setYear();*/
 }
 
 motorcycle::~motorcycle(){

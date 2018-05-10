@@ -5,10 +5,10 @@ using namespace std;
 
 class motorcycle{
 	private:
-		string color;
-		string make;
-		string model;
-		int year;
+		string color="Red";
+		string make="Harley";
+		string model="Soft tail";
+		int year=2018;
 	public:
 		
 		motorcycle();
