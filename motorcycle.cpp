@@ -39,23 +39,7 @@ void motorcycle::setModel(){
 	cout << "What model is your motorcycle?"<<endl;
 	cin >> model;
 }
-/*
-void getColor(){
-	return color;
-}
 
-void getYear(){
-	return year;
-}
-
-void getmake(){
-	return make;
-}
-
-void getModel(){
-	return model;
-}
-*/
 void motorcycle::getMotorcycleInfo(){
 	cout << "Your motorcycle has the following attributes:"<<endl;
 	cout << "Year: "<<year<<endl;

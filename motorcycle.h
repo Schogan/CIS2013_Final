@@ -18,9 +18,5 @@ class motorcycle{
 			void setYear();
 			void setMake();
 			void setModel();
-			/*void getColor();
-			void getYear();
-			void getmake();
-			void getModel();*/
 			void getMotorcycleInfo();
 };
